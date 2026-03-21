@@ -3,6 +3,8 @@
 #### Paper title: A Feature Modulation Block-aided Dual-Branch of Swin-Transformer and Ensemble of CNN Models for Breast Cancer Classification
 #### Authors: Debatra Banerjee, Irina Shpakovskaya, Dmitrii Kaplun, Mahantapas Kundu, Ram Sarkar
 
+** This paper is accepted by MECO 2026 conference.
+
 A dual branch architecture with novel SqueezeNet and ShuffleNet ensembled local branch and Swin Transformer global branch fused by FiLM fusion
 
 ## Model overview
